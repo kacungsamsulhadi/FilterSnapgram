@@ -1,0 +1,1 @@
+Pada final submission saya menggabungkan 3 fitur yaitu Post Effect(Brightening & Contrast), Segmentation(Di kepala terdapat mahkota dan mengikuti gerakan dari pengguna), dan Visual Script(Dengan tersenyum maka akan menampilkan teks "happy teacher's day").
